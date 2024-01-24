@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pixabay-lite/static/css/main.f09c0afe.css",
+    "main.js": "/pixabay-lite/static/js/main.6fa6891d.js",
+    "static/media/Logo.png": "/pixabay-lite/static/media/Logo.934daa99740e53c6d957.png",
+    "index.html": "/pixabay-lite/index.html",
+    "main.f09c0afe.css.map": "/pixabay-lite/static/css/main.f09c0afe.css.map",
+    "main.6fa6891d.js.map": "/pixabay-lite/static/js/main.6fa6891d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09c0afe.css",
+    "static/js/main.6fa6891d.js"
+  ]
+}
